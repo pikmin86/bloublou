@@ -10,7 +10,7 @@
 
 It's very important for the future of the project in general and how things will be like going forward.
 
-**Troubleshooting (READ BEFORE POSTING)**
+**Troubleshooting (READ BEFORE POSTING)***
 
 [Using the Script Fixer Upper](https://github.com/Ephenia/Pokeclicker-Scripts/issues/214)<br/>
 [Issue Guidelines](https://github.com/Ephenia/Pokeclicker-Scripts/issues/119)
